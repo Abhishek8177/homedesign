@@ -1,0 +1,103 @@
+
+
+ .menu ul>li{
+
+    float: left;
+    list-style: none;   
+    font-weight: bold;   
+    width: 140px;
+    margin-left: 10px;
+    text-align: center;    
+    position: relative;
+    top: -695px;
+    left: 750px;
+   
+
+}
+
+img{
+
+    opacity: 0.9;
+
+    
+}
+
+.menu ul li>a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-transform: uppercase;
+    text-shadow: 1px 1px white
+}
+
+.logo{
+
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-style:italic;
+    text-transform: uppercase;
+    position: relative;
+    right: 550px;
+    top: -700px;
+    text-shadow: 2px 2px black;
+
+}
+
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-transform: capitalize;
+    position: relative;
+    left: 400px;
+    top: -600px;
+    text-shadow: 2px 2px black;
+}
+
+h2{
+    font-size: 17px;
+    color: white;
+    position: relative;
+    left: 450px;
+    top: -640px;
+    text-transform: capitalize;
+ 
+
+}
+
+
+
+.bar ul>li{
+
+    float: left;
+    font-weight: bold;
+    list-style: none;
+     position: relative;
+    left: 470px;
+    top: -590px;
+  
+    height: 34px;
+    margin-left: 25px;
+    width: 150px;
+    line-height: 34px;
+    text-align: center;
+    border-radius: 40%;
+    border: 2px rgb(31, 177, 226) solid;
+    
+}
+
+.bar ul li>a{
+
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+
+.bar ul>li:hover{
+
+    background-color: rgb(78, 10, 10);
+    color: black;
+   
+}
